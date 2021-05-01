@@ -20,5 +20,5 @@
 </div>
 
 <h3>Atenção</h3>
-<p>Se você ainda não passou da fase do "copiar&colar" códigos, procure alguns dos materiais de estudo para se aperfeissoar e se tornar um dev profissioal ainda em 2021</p>
+<p>Se você ainda não passou da fase do "copiar&colar" códigos, procure alguns dos materiais de estudo para se aperfeiçoar e se tornar um dev profissional ainda em 2021</p>
 <p>Material que indico é o <a href="http://bit.ly/CursoFullStackTurbo">Curso Desenvolvedor Full Stack Turbo</a>.</p>
