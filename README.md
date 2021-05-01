@@ -23,4 +23,4 @@
 <p>Se você ainda não passou da fase do "copiar&colar" códigos, procure alguns dos materiais de estudo para se aperfeiçoar e se tornar um dev profissional ainda em 2021</p>
 <p>Material que indico é o <a href="http://bit.ly/CursoFullStackTurbo">Curso Desenvolvedor Full Stack Turbo</a>.</p>
 
-<a href="http://bit.ly/CursoFullStackTurbo"><img src="https://cdn-bbdjb.nitrocdn.com/SRqAcvEIozmnZizAMvLigYTprpWUXBPC/assets/static/optimized/rev-c8d9655/wp-content/uploads/2020/12/PROJETO-CURSO-DESENVOLVEDOR-FULL-STACK-TURBO.jpg" width="200px" higth="200px"></a>
+<a href="http://bit.ly/CursoFullStackTurbo"><img src="https://cdn-bbdjb.nitrocdn.com/SRqAcvEIozmnZizAMvLigYTprpWUXBPC/assets/static/optimized/rev-c8d9655/wp-content/uploads/2020/12/PROJETO-CURSO-DESENVOLVEDOR-FULL-STACK-TURBO.jpg" target="_blank" width="200px" higth="200px"></a>
