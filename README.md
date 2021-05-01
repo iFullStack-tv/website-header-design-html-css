@@ -5,7 +5,7 @@
 <a href="https://ifullstack-tv.github.io/website-header-design-html-css/">Demo</a>
 <a href="https://ifullstack-tv.github.io/website-header-design-html-css/"><img src="https://github.com/iFullStack-tv/website-header-design-html-css/blob/main/demo.jpg"></a>
 
-<div align-items="center">
+<div align="center">
 <h3>Connect with us:</h3>
 
 [<img alt="iFullStack.tv | YouTube" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/youtube.png" />][youtube]
